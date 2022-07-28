@@ -16,7 +16,7 @@ Simple template with Next.js, Typescript and TailwindCSS.
 Clone the repository 
 
 ```bash
-git clone https://github.com/MatteoGauthier/mako.git
+git clone https://github.com/MatteoGauthier/mako.git new_project_name
 ```
 
 Install dependencies
